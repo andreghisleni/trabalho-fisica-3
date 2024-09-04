@@ -1,0 +1,10 @@
+\babel@toc {brazil}{}\relax 
+\beamer@sectionintoc {1}{Lei de Gauss Elétrica}{2}{0}{1}
+\beamer@sectionintoc {2}{Lei de Gauss Elétrica}{2}{0}{2}
+\beamer@sectionintoc {3}{Fluxo Magnético}{3}{0}{3}
+\beamer@sectionintoc {4}{Importância e Aplicações}{5}{0}{4}
+\beamer@sectionintoc {5}{Curiosidades e Explicações}{6}{0}{5}
+\beamer@sectionintoc {6}{Formas Matemáticas}{7}{0}{6}
+\beamer@sectionintoc {7}{Relação com as Ondas Eletromagnéticas}{8}{0}{7}
+\beamer@sectionintoc {8}{Aplicações Práticas}{9}{0}{8}
+\beamer@sectionintoc {9}{Simetrias no Campo Elétrico}{13}{0}{9}
